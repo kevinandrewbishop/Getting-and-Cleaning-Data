@@ -5,6 +5,7 @@ This script cleans and merges data from this dataset:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The dataset has files containing train and test versions of the following:
+
 1) A list of the names of the features
 
 2) Unlabeled X variable observations of those features (the columns of the observations are in the same order as the list from 1)
